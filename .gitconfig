@@ -1,0 +1,8 @@
+[user]
+    name = Mateus de Godoy Carvalho
+    email = mateus.godoy.141@ufrn.edu.br
+[core]
+    editor = nvim
+[alias]
+   last = log -1 HEAD
+   part = add --patch
